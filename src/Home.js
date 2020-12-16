@@ -21,7 +21,7 @@ function Home() {
           <Product
             title="Wyze Cam 1080p HD Indoor Wireless Smart Home Camera with Night Vision, 2-Way Audio, Works with Alexa & the Google Assistant (Pack of 2), White - WYZEC2X2"
             rating={4}
-            price={28604}
+            price={286}
             image="https://images-na.ssl-images-amazon.com/images/I/61prs9ArY1L._AC_SL1500_.jpg"
         
           />
@@ -31,7 +31,7 @@ function Home() {
       <Product
             title="AmazonBasics Computer Speakers for Desktop or Laptop PC | USB-Powered"
             rating={4}
-            price={3498}
+            price={37}
             image="https://images-na.ssl-images-amazon.com/images/I/91Qr45nRJAL._AC_SL1500_.jpg"
         
           />
